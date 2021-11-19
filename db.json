@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Mandras tree shrew","category":"Crimson"},
+{"id":2,"name":"Ocelot","category":"Pink"},
+{"id":3,"name":"Heron, giant","category":"Green"},
+{"id":4,"name":"Canadian tiger swallowtail butterfly","category":"Teal"},
+{"id":5,"name":"Squirrel, grey-footed","category":"Turquoise"},
+{"id":6,"name":"Iguana, marine","category":"Turquoise"},
+{"id":7,"name":"African lynx","category":"Red"},
+{"id":8,"name":"Boubou, southern","category":"Turquoise"},
+{"id":9,"name":"Waxbill, blue","category":"Violet"},
+{"id":10,"name":"Cat, ringtail","category":"Violet"},
+{"id":11,"name":"Crow, pied","category":"Crimson"},
+{"id":12,"name":"Dove, mourning collared","category":"Puce"},
+{"id":13,"name":"Raccoon, common","category":"Red"},
+{"id":14,"name":"Mountain goat","category":"Turquoise"},
+{"id":15,"name":"Lizard (unidentified)","category":"Maroon"},
+{"id":16,"name":"Striped hyena","category":"Fuscia"},
+{"id":17,"name":"Snake, western patch-nosed","category":"Puce"},
+{"id":18,"name":"Grant's gazelle","category":"Orange"},
+{"id":19,"name":"Secretary bird","category":"Purple"},
+{"id":20,"name":"Baboon, olive","category":"Crimson"}
+]
+}
